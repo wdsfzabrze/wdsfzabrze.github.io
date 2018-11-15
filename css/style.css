@@ -63,8 +63,8 @@
 
 body {
 	font-family: 'Poppins', sans-serif;
-	font-size: 14px;
-	color: #9C9C9C;
+	font-size: 16px;
+	color: #505050;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;	
@@ -157,8 +157,8 @@ p{
 	line-height: .75;
 }
 .sec-title p {
-	font-size: 16px;
-	color: #747474;
+	font-size: 17px;
+	color: #505050;
 	margin: 0;
 	margin-bottom: 20px;
 }
@@ -247,8 +247,8 @@ p{
 .top-bar {border-bottom: 1px solid #EAEAEA;}
 
 .top-bar .left-text p {
-	font-size: 13px;
-	color: #B6B6B6;	
+	font-size: 14px;
+	color: #505050;	
 	margin: 0;
 	line-height: 48px;
 }
@@ -272,7 +272,7 @@ p{
 .social-icons ul li a {
 	display: inline-block;
 	font-size: 15px;
-	color: #A4A4A4;
+	color: #505050;
 	border-right: 1px solid #EAEAEA;
 	line-height: 48px;
 	text-align: center;
@@ -624,7 +624,7 @@ p{
 	margin-bottom: 15px;
 }
 .single-call-to-action .content-box p {
-	font-size: 13px;
+	font-size: 15px;
 	color: #fff;
 	line-height: 24px;
 }
@@ -636,7 +636,7 @@ p{
 	list-style: none;
 	display: block;
 	color: #fff;
-	font-size: 13px;
+	font-size: 15px;
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -1062,8 +1062,8 @@ p{
 }
 .faq-home .accrodion .accrodion-content p {
 	margin-bottom: 21px;
-	font-size: 14px;
-	color: #9C9C9C;
+	font-size: 16px;
+	color: #505050;
 	line-height: 26px;
 }
 .faq-home .accrodion .accrodion-content p:last-child {
@@ -1387,15 +1387,15 @@ p{
 	margin-bottom: 4px;
 }
 .single-team-member > span {
-	font-size: 13px;
-	color: #b5b5b5;
+	font-size: 14px;
+	color: #505050;
 	text-transform: capitalize;
 	display: block;
 	margin-bottom: 10px;
 }
 .single-team-member p {
-	font-size: 14px;
-	color: #262F36;
+	font-size: 15px;
+	color: #505050;
 	line-height: 26px;
 	margin: 0;
 }
@@ -2594,7 +2594,7 @@ p{
 	margin-bottom: 10px;
 }
 .contact-content .contact-info li .content-box p {
-	color: #9C9C9C;
+	color: #505050;
 	line-height: 26px;
 }
 .contact-content .gm-err-icon img {
@@ -3017,8 +3017,8 @@ p{
 	color:#202a30;
 }
 #single_Service .service_mainconetent .about_box p{
-	font-size:14px;
-	color:#8e979f;
+	font-size:15px;
+	color:#505050;
 	line-height:30px;
 	
 }
@@ -3116,6 +3116,6 @@ p{
     line-height: 1.428571429;
     vertical-align: top;
     border-top: 1px solid #ddd;
-    font-size: 14px;
-    color: #8e979f;
+    font-size: 15px;
+    color: #505050;
 }
