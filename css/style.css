@@ -1378,24 +1378,23 @@ p{
 	color: #90051C;
 }
 .single-team-member h3 {
-	font-size: 18px;
-	text-transform: capitalize;
+	font-size: 20px;
 	font-weight: bold;
-	color: #222E35;
+	color: black;
 	line-height: 25px;
 	margin: 0;
 	margin-bottom: 4px;
 }
 .single-team-member > span {
-	font-size: 14px;
-	color: #505050;
+	font-size: 15px;
+	color: black;
 	text-transform: capitalize;
 	display: block;
 	margin-bottom: 10px;
 }
 .single-team-member p {
-	font-size: 15px;
-	color: #505050;
+	font-size: 17px;
+	color: black;
 	line-height: 26px;
 	margin: 0;
 }
@@ -3017,8 +3016,8 @@ p{
 	color:#202a30;
 }
 #single_Service .service_mainconetent .about_box p{
-	font-size:15px;
-	color:#505050;
+	font-size:18px;
+	color:black;
 	line-height:30px;
 	
 }
