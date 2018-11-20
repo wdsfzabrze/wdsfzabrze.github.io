@@ -254,7 +254,7 @@ p{
 }
 
 .top-bar .left-text p span {
-	color: #383838;
+	color: black;
 }
 
 .social-icons ul,
@@ -2592,7 +2592,7 @@ p{
 	margin-bottom: 10px;
 }
 .contact-content .contact-info li .content-box p {
-	color: #505050;
+	color: black;
 	line-height: 26px;
 }
 .contact-content .gm-err-icon img {
