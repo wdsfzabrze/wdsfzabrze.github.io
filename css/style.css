@@ -1378,7 +1378,7 @@ p{
 	color: #90051C;
 }
 .single-team-member h3 {
-	font-size: 20px;
+	font-size: 19px;
 	font-weight: bold;
 	color: black;
 	line-height: 25px;
@@ -1388,7 +1388,6 @@ p{
 .single-team-member > span {
 	font-size: 15px;
 	color: black;
-	text-transform: capitalize;
 	display: block;
 	margin-bottom: 10px;
 }
